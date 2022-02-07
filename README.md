@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola-Mundo
+Mi primer repositorio
 
-Autor: Lizbeth Càrdenas Escobar
+Autor: Lizbeth Cardenas Escobar
 Fecha: Febrero 07, 2022
